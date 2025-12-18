@@ -4,7 +4,7 @@ nome_produto = input("Digite o nome do produto: ")
 
 preço_caixa = float(input("Digite o preço da caixa R$: "))
 
-unidade_caixa = int(input("Digite a quantidades de unidade por caixa: "))
+unidade_caixa = int(input("Digite a quantidade de unidades por caixa: "))
 
 margem_lucro = float(input("Digite a margem de lucro (%): "))
 
