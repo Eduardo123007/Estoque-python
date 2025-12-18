@@ -1,4 +1,4 @@
-print(f"=====Estuque=====\n")
+print(f"=====Estoque=====\n")
 
 nome_produto = input("Digite o nome do produto: ")
 
